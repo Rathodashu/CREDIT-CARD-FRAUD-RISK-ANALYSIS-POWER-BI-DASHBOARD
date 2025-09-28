@@ -1,4 +1,4 @@
-# CREDIT-CARD-FRAUD-RISK-ANALYSIS-POWER-BI-DASHBOARD
+# CREDIT CARD FRAUD RISK ANALYSIS POWER-BI DASHBOARD
 ## PowerBI
 ## 📊 Credit Card Fraud Risk Analysis Dashboard (Power BI)
 ### 🔍 Project Overview
